@@ -1,0 +1,15 @@
+db/test.sqlite3
+log/*.log
+*~
+db/*.bkp
+coverage
+tmp
+test/log
+log/test
+\#*
+.\#*
+apple_report_*.xls
+.DS_Store
+.svn
+db/deep_test*
+*_flymake.*
