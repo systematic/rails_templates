@@ -1,3 +1,10 @@
+# find easy way to force mysql
+# database.yml should have a real username and randomly generated password
+# should install the db_setup script
+
+# install exception notifier and set it up
+# turn on protect_forgery since we never want it
+
 
 run "echo 'TODO' > README"
 run "rm public/index.html"
